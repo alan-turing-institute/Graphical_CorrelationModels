@@ -40,14 +40,14 @@ Code/
 
 ## R scripts Description 
 
-*GermanyData.Rdata: is the dataset that contains expected and observed data for three cancer cases observed in Germany	
-*Simple_Model_Biomarkers.R: it generates four variables to represent the epigenetic clocks and fits a simple multivariate normal model with no covariates.
-*Multivariate_ Disease_Example.R: it computes the five bym models and the codes for the maps.
-*Longitudinal_Example_Linear.R: Provides the simulated data and graphs definition for the longitudinal example with two biomarkers and linear time effects.
-*Longitudinal_Example_nonLinear.R: provides the simulated data for the longitudinal data with quadratic time effects for two correlated biomarkers.
-*Lambda_Simulations: provide the simulation codes for the lambda definition and the code for generating the figures in the paper.
-*RGEN.R: contains specific functions to fit the correlation models and the code to generate the graphs to source only.
-*mbesag.R: contains function specific to the multivariate disease application, to  source only.
+* 1.GermanyData.Rdata: is the dataset that contains expected and observed data for three cancer cases observed in Germany	
+* 2.Simple_Model_Biomarkers.R: it generates four variables to represent the epigenetic clocks and fits a simple multivariate normal model with no covariates.
+* 3.Multivariate_ Disease_Example.R: it computes the five bym models and the codes for the maps.
+* 4.Longitudinal_Example_Linear.R: Provides the simulated data and graphs definition for the longitudinal example with two biomarkers and linear time effects.
+* 5.Longitudinal_Example_nonLinear.R: provides the simulated data for the longitudinal data with quadratic time effects for two correlated biomarkers.
+* 6.Lambda_Simulations: provide the simulation codes for the lambda definition and the code for generating the figures in the paper.
+* 7.RGEN.R: contains specific functions to fit the correlation models and the code to generate the graphs to source only.
+* 8.mbesag.R: contains function specific to the multivariate disease application, to  source only.
 
 
 ## Authors
