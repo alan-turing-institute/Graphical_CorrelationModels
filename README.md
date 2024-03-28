@@ -17,7 +17,7 @@ We have included R  scripts to compute the three applications presented in the p
 ```
 Code/
 ├── GermanyData.Rdata  # data for Multivariate Disease Mapping
- |
+|
 ├── Simple_Model_Biomarkers.R  #  biomarkers data generated - original data not disclosed.
 ├── Multivariate_ Disease_Example.R
 ├── Longitudinal_Example_Linear.R
@@ -25,6 +25,7 @@ Code/
 ├── Lambda_Simulations.R
 ├── RGEN.R  
 └── mbesag.R
+```
 
 ## Getting Started
 
@@ -37,7 +38,6 @@ Code/
 
 * Run the files by application. 
 
-
 ## R scripts Description 
 
 *GermanyData.Rdata: is the dataset that contains expected and observed data for three cancer cases observed in Germany	
@@ -49,8 +49,8 @@ Code/
 *RGEN.R: contains specific functions to fit the correlation models and the code to generate the graphs to source only.
 *mbesag.R: contains function specific to the multivariate disease application, to  source only.
 
-## Authors
 
+## Authors
 
 [Anna Freni Sterrantino](mailto:afrenisterrantino@turing.ac.uk).
 
