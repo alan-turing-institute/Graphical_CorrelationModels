@@ -1,0 +1,10 @@
+Rscript 4Y_30_L1.R >4Y_30_L1.out 2>&1 &
+Rscript 4Y_30_L3.R >4Y_30_L3.out 2>&1 &
+Rscript 4Y_30_L5.R >4Y_30_L5.out 2>&1 &
+
+Rscript 4Y_1000_L1.R >4Y_1000_L1.out 2>&1 &
+Rscript 4Y_1000_L3.R >4Y_1000_L3.out 2>&1 &
+Rscript 4Y_1000_L5.R >4Y_1000_L5.out 2>&1 &
+
+Rscript 4Y_30_FULL.R >4Y_30_FULL.out 2>&1 &
+Rscript 4Y_1000_FULL.R >4Y_1000_FULL.out 2>&1 &

@@ -1,0 +1,53 @@
+Loading required package: Matrix
+Loading required package: sp
+This is INLA_24.06.27 built 2024-06-27 02:36:04 UTC.
+ - See www.r-inla.org/contact-us for how to get help.
+ - List available models/likelihoods/etc with inla.list.models()
+ - Use inla.doc(<NAME>) to access documentation
+Loading required package: graph
+Loading required package: BiocGenerics
+
+Attaching package: ‘BiocGenerics’
+
+The following objects are masked from ‘package:stats’:
+
+    IQR, mad, sd, var, xtabs
+
+The following objects are masked from ‘package:base’:
+
+    anyDuplicated, aperm, append, as.data.frame, basename, cbind,
+    colnames, dirname, do.call, duplicated, eval, evalq, Filter, Find,
+    get, grep, grepl, intersect, is.unsorted, lapply, Map, mapply,
+    match, mget, order, paste, pmax, pmax.int, pmin, pmin.int,
+    Position, rank, rbind, Reduce, rownames, sapply, setdiff, table,
+    tapply, union, unique, unsplit, which.max, which.min
+
+Loading required package: Rgraphviz
+Loading required package: grid
+Loading required package: numDeriv
+Package 'INLAjoint' version 24.6.5
+Type 'citation("INLAjoint")' for citing this R package in publications.
+             Intercept_L1                  timej_L1              Intercept_L2 
+                  0.90969                   0.24677                   0.19058 
+                 timej_L2     Intercept_L1:timej_L1     Intercept_L2:timej_L2 
+                  0.47661                   0.65043                   0.39776 
+Intercept_L1:Intercept_L2                                                     
+                  0.37015                   0.19267                  -0.09962 
+                                                    
+                  0.20009                  -0.10285 
+             Intercept_L1                  timej_L1              Intercept_L2 
+                 0.713475                  0.216000                  0.182000 
+                 timej_L2     Intercept_L1:timej_L1     Intercept_L2:timej_L2 
+                 0.383375                  0.509800                  0.284000 
+Intercept_L1:Intercept_L2                                                     
+                 0.240825                 -0.188275                 -0.164450 
+                                                    
+                 0.165475                 -0.275775 
+             Intercept_L1                  timej_L1              Intercept_L2 
+                 1.139775                  0.278000                  0.201575 
+                 timej_L2     Intercept_L1:timej_L1     Intercept_L2:timej_L2 
+                 0.575675                  0.754625                  0.488050 
+Intercept_L1:Intercept_L2                                                     
+                 0.475350                  0.493575                 -0.039800 
+                                                    
+                 0.232625                  0.070875 

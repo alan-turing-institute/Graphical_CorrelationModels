@@ -1,0 +1,42 @@
+Loading required package: Matrix
+Loading required package: sp
+This is INLA_24.06.27 built 2024-06-27 02:36:04 UTC.
+ - See www.r-inla.org/contact-us for how to get help.
+ - List available models/likelihoods/etc with inla.list.models()
+ - Use inla.doc(<NAME>) to access documentation
+Loading required package: graph
+Loading required package: BiocGenerics
+
+Attaching package: ‘BiocGenerics’
+
+The following objects are masked from ‘package:stats’:
+
+    IQR, mad, sd, var, xtabs
+
+The following objects are masked from ‘package:base’:
+
+    anyDuplicated, aperm, append, as.data.frame, basename, cbind,
+    colnames, dirname, do.call, duplicated, eval, evalq, Filter, Find,
+    get, grep, grepl, intersect, is.unsorted, lapply, Map, mapply,
+    match, mget, order, paste, pmax, pmax.int, pmin, pmin.int,
+    Position, rank, rbind, Reduce, rownames, sapply, setdiff, table,
+    tapply, union, unique, unsplit, which.max, which.min
+
+Loading required package: Rgraphviz
+Loading required package: grid
+Loading required package: numDeriv
+ [1]  0.94984  0.47865  0.96464  0.48290  1.00266  0.49935  0.97843  0.48545
+ [9]  0.87493  0.87740  0.88818  0.89017  0.78126  0.79426  0.61036  0.60393
+[17]  0.60545  0.59903  0.14882 -0.10847 -0.20387  0.13186  0.17125 -0.10775
+[25] -0.19434  0.11563  0.18808 -0.10190 -0.21021  0.11017  0.20458 -0.10652
+[33] -0.21353  0.09682
+ [1]  0.719100  0.349475  0.718075  0.374950  0.757275  0.379425  0.754050
+ [8]  0.356950  0.793325  0.799000  0.816425  0.816475  0.647425  0.668075
+[15]  0.397325  0.409025  0.380375  0.380125 -0.288800 -0.268150 -0.516050
+[22] -0.153200 -0.380875 -0.303725 -0.502350 -0.173450 -0.344350 -0.261200
+[29] -0.457450 -0.203450 -0.302300 -0.269150 -0.511200 -0.209850
+ [1] 1.171250 0.617200 1.187975 0.591925 1.261200 0.643325 1.247225 0.632300
+ [9] 0.927525 0.931525 0.937525 0.938050 0.870575 0.885000 0.765150 0.762100
+[17] 0.753525 0.751150 0.657600 0.091600 0.069150 0.417925 0.663375 0.041825
+[25] 0.108625 0.468800 0.705875 0.058400 0.110700 0.474825 0.749400 0.111675
+[33] 0.076625 0.443475

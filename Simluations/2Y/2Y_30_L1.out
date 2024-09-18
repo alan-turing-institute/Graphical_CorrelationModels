@@ -1,0 +1,33 @@
+Loading required package: Matrix
+Loading required package: sp
+This is INLA_24.06.27 built 2024-06-27 02:36:04 UTC.
+ - See www.r-inla.org/contact-us for how to get help.
+ - List available models/likelihoods/etc with inla.list.models()
+ - Use inla.doc(<NAME>) to access documentation
+Loading required package: graph
+Loading required package: BiocGenerics
+
+Attaching package: ‘BiocGenerics’
+
+The following objects are masked from ‘package:stats’:
+
+    IQR, mad, sd, var, xtabs
+
+The following objects are masked from ‘package:base’:
+
+    anyDuplicated, aperm, append, as.data.frame, basename, cbind,
+    colnames, dirname, do.call, duplicated, eval, evalq, Filter, Find,
+    get, grep, grepl, intersect, is.unsorted, lapply, Map, mapply,
+    match, mget, order, paste, pmax, pmax.int, pmin, pmin.int,
+    Position, rank, rbind, Reduce, rownames, sapply, setdiff, table,
+    tapply, union, unique, unsplit, which.max, which.min
+
+Loading required package: Rgraphviz
+Loading required package: grid
+Loading required package: numDeriv
+ [1]  1.02534  0.20607  0.10223  0.51160  0.90329  0.90966  0.80004  0.19281
+ [9] -0.09964  0.20007 -0.10281
+ [1]  0.794225  0.159475  0.079425  0.391800  0.843900  0.854900  0.658475
+ [8] -0.190900 -0.163925  0.161900 -0.275250
+ [1]  1.297600  0.255525  0.124100  0.627675  0.947200  0.950150  0.894100
+ [8]  0.494000 -0.039850  0.233625  0.069825

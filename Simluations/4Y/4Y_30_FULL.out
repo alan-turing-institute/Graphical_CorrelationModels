@@ -1,0 +1,101 @@
+Loading required package: Matrix
+Loading required package: sp
+This is INLA_24.06.27 built 2024-06-27 02:36:04 UTC.
+ - See www.r-inla.org/contact-us for how to get help.
+ - List available models/likelihoods/etc with inla.list.models()
+ - Use inla.doc(<NAME>) to access documentation
+Loading required package: graph
+Loading required package: BiocGenerics
+
+Attaching package: ‘BiocGenerics’
+
+The following objects are masked from ‘package:stats’:
+
+    IQR, mad, sd, var, xtabs
+
+The following objects are masked from ‘package:base’:
+
+    anyDuplicated, aperm, append, as.data.frame, basename, cbind,
+    colnames, dirname, do.call, duplicated, eval, evalq, Filter, Find,
+    get, grep, grepl, intersect, is.unsorted, lapply, Map, mapply,
+    match, mget, order, paste, pmax, pmax.int, pmin, pmin.int,
+    Position, rank, rbind, Reduce, rownames, sapply, setdiff, table,
+    tapply, union, unique, unsplit, which.max, which.min
+
+Loading required package: Rgraphviz
+Loading required package: grid
+Loading required package: numDeriv
+Package 'INLAjoint' version 24.6.5
+Type 'citation("INLAjoint")' for citing this R package in publications.
+             Intercept_L1                  timej_L1              Intercept_L2 
+                  0.94734                   0.50434                   0.96171 
+                 timej_L2              Intercept_L3                  timej_L3 
+                  0.50821                   0.98073                   0.51432 
+             Intercept_L4                  timej_L4     Intercept_L1:timej_L1 
+                  0.96191                   0.50394                   0.82467 
+    Intercept_L2:timej_L2     Intercept_L3:timej_L3     Intercept_L4:timej_L4 
+                  0.82307                   0.82958                   0.82340 
+Intercept_L1:Intercept_L2 Intercept_L3:Intercept_L4 Intercept_L1:Intercept_L3 
+                  0.77439                   0.77877                   0.58068 
+Intercept_L1:Intercept_L4 Intercept_L2:Intercept_L3 Intercept_L2:Intercept_L4 
+                  0.58059                   0.58569                   0.57755 
+                                                                              
+                  0.14953                  -0.10856                  -0.20222 
+                                                                              
+                  0.12827                   0.16905                  -0.10780 
+                                                                              
+                 -0.18434                   0.11177                   0.18943 
+                                                                              
+                 -0.10196                  -0.20657                   0.10659 
+                                                                              
+                  0.19899                  -0.10660                  -0.22461 
+                          
+                  0.10744 
+             Intercept_L1                  timej_L1              Intercept_L2 
+                 0.714175                  0.378325                  0.694450 
+                 timej_L2              Intercept_L3                  timej_L3 
+                 0.406000                  0.744950                  0.410225 
+             Intercept_L4                  timej_L4     Intercept_L1:timej_L1 
+                 0.738225                  0.395950                  0.681750 
+    Intercept_L2:timej_L2     Intercept_L3:timej_L3     Intercept_L4:timej_L4 
+                 0.705325                  0.729425                  0.725900 
+Intercept_L1:Intercept_L2 Intercept_L3:Intercept_L4 Intercept_L1:Intercept_L3 
+                 0.609225                  0.602775                  0.376475 
+Intercept_L1:Intercept_L4 Intercept_L2:Intercept_L3 Intercept_L2:Intercept_L4 
+                 0.352850                  0.314000                  0.326775 
+                                                                              
+                -0.353800                 -0.268150                 -0.531975 
+                                                                              
+                -0.199850                 -0.382100                 -0.303725 
+                                                                              
+                -0.527050                 -0.183325                 -0.400875 
+                                                                              
+                -0.261200                 -0.460550                 -0.240900 
+                                                                              
+                -0.295100                 -0.269150                 -0.533800 
+                          
+                -0.239750 
+             Intercept_L1                  timej_L1              Intercept_L2 
+                 1.157100                  0.633775                  1.202925 
+                 timej_L2              Intercept_L3                  timej_L3 
+                 0.620450                  1.229750                  0.646875 
+             Intercept_L4                  timej_L4     Intercept_L1:timej_L1 
+                 1.224675                  0.628975                  0.905150 
+    Intercept_L2:timej_L2     Intercept_L3:timej_L3     Intercept_L4:timej_L4 
+                 0.902525                  0.901625                  0.902575 
+Intercept_L1:Intercept_L2 Intercept_L3:Intercept_L4 Intercept_L1:Intercept_L3 
+                 0.885575                  0.888050                  0.778775 
+Intercept_L1:Intercept_L4 Intercept_L2:Intercept_L3 Intercept_L2:Intercept_L4 
+                 0.767200                  0.764775                  0.762525 
+                                                                              
+                 0.696750                  0.091600                  0.070350 
+                                                                              
+                 0.458425                  0.659100                  0.041825 
+                                                                              
+                 0.139550                  0.468875                  0.743050 
+                                                                              
+                 0.058400                  0.143250                  0.451050 
+                                                                              
+                 0.777075                  0.111150                  0.073625 
+                          
+                 0.455550 
