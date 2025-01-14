@@ -66,6 +66,7 @@ Code/Simulations/
 *4Y/: this folder contains all the code for all the simulations for the different sample sizes for section 5.1.3; it contains the simulations for 30 and 1000 subjects, different lambda levels and unspecified correlation structures.
 
 *results_2Y.R: this code creates the table to summarize the results in table 2.
+
 *results_4Y.R: this code creates tables to summarize the results in tables 3 and 4.  
 
 
