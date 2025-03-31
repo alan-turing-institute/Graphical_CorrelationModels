@@ -29,8 +29,11 @@ Code/Simulations/
 ├── Define_lambda.R  # code for Fig. 3 and Fig.4 
 ├── 2Y/ # code for all the simulations for the different sample sizes for section 5.1.2 
 ├── 4Y/ #  code for all the simulations for the different sample sizes for section 5.1.3
+├── LowCor #  code for all the simulations with low correlations reported in the appendix
 ├── results_2Y.R  # code for table 2
 └── results_4Y.R  #  code for tables 3 and 4
+
+
 ```
 
 ## Getting Started
