@@ -72,6 +72,8 @@ Code/Simulations/
 
 *results_4Y.R: this code creates tables to summarize the results in tables 3 and 4.  
 
+*LowCor/: contains the simulations with lower correlation values  
+
 
 ## Authors
 
